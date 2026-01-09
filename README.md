@@ -1,8 +1,26 @@
 
 # City Tours Bus Ticket Booking System 
 
+🚌 City Tours Bus Ticket Booking System
 Journey in Comfort & Style
-Book your next trip with Sri Lanka's most trusted bus service. Experience premium comfort, safety, and reliability on every journey.
+🌴 Book your next trip with Sri Lanka's most trusted bus service.
+Experience premium comfort, safety, and reliability on every journey.
+
+# ✨ Features
+🎟️ Easy Online Booking – Secure and instant bus ticket reservations
+🛋️ Premium Comfort – Spacious seating, AC, and onboard amenities
+🛡️ Safety First – Certified drivers and well-maintained buses
+📍 Smart Routes – Covers major cities and scenic destinations across Sri Lanka
+📱 Mobile-Friendly – Book on the go with our responsive web platform
+⏱️ Real-Time Tracking – Live updates on bus schedules and arrivals
+
+🎨 Tech Stack
+https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
+https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white
 
 
 ## Screenshots
