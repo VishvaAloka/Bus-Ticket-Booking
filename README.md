@@ -7,7 +7,7 @@ Book your next trip with India's most trusted bus service. Experience premium co
 
 ## Screenshots
 
-![Screenshot_12-6-2024_113311_localhost](https://github.com/user-attachments/assets/37a19973-fba6-4ddc-bc38-f240b4634763)
+![Screenshot_12-6-2024_113311_localhost](https://github.com/user-attachments/assets/b0ea74e8-6622-4299-aed7-197eaf2eecbf)
 
 
 ![Screenshot_12-6-2024_113619_localhost](https://github.com/user-attachments/assets/49c55cc5-74dd-47ca-9f72-fa9d1f61fa95)
