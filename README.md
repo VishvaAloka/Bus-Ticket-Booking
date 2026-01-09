@@ -2,7 +2,7 @@
 # City Tours Bus Ticket Booking System 
 
 Journey in Comfort & Style
-Book your next trip with India's most trusted bus service. Experience premium comfort, safety, and reliability on every journey.
+Book your next trip with Sri Lanka's most trusted bus service. Experience premium comfort, safety, and reliability on every journey.
 
 
 ## Screenshots
